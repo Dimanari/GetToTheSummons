@@ -1,0 +1,29 @@
+The Missing Link - Summoner mod aims to fix two stages of progression for the summoner class:
+1. Starting point - all summoner weapons require you to first be able to kill for resources, not anymore!
+2. Post-Plantera - Spooky Armor is the only crafted yellow rarity armor except Turtle that doesn't have a variant, but Turtle is Melee that also have Bettle armor.
+
+Item's added:
+
+Pre-Underground Ice:
+Sapphire Watcher Staff - an early game summon equivalent/weaker Finch Staff, crafted with Tin/Copper, Sapphires and Lenses.
+Silky Whip - a No killing required whip, slightly weaker than the Leather Whip, crafted with Iron/Lead, Silk and Wood.
+after getting those you can easily scale the depths of underground ice to continue progression like any other class.
+
+Post-Plantera:
+Spooky Crown - a healmet varian to th spooky armor, sacrificing quite a bit of damage for sentry slots and Minion Lifesteal.
+Tamer's Gauntlet - a combination accessory for the Power Glove to give it a summoner variant that apply the size boost to whips.
+those should give you enough choice to change your playstyle around the moonlord fight and other post-Plantera content
+
+Post-Moonlord:
+The Ulta Whip - a Meme Whip that is designed to be broken AF while still maintaining the vanilla feel.
+the echo damage is similar to the firecracker's effect but is single target and is WAY bigger.
+
+Update 1.02
+Buffed the Range of Silky whip 2->3.
+
+Update 1.03
+Fixed some bugs.
+
+Update 1.04.3
+Back again after constant TModLoader Changes to Whip Code(DamageClass.Summon to DamageClass.SummonMeleeSpeed)
+Rewriting the Whip code based on the TModLoader ExampleWhip and reimplementing the Collision and CutTiles functions(may be redundent in the future).
